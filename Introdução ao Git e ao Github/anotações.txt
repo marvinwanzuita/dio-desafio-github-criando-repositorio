@@ -1,0 +1,3 @@
+Link para download do Git: https://gitforwindows.org/
+
+O Git Bash é um terminal extendido para otimizar o resositório.
